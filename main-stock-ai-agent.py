@@ -14,7 +14,7 @@ import os
 warnings.filterwarnings('ignore')
 
 
-os.environ["GOOGLE_API_KEY"] = 'AIzaSyAd3oTLCZAZIaAJmH0KdkbRlHezap9lsxE'
+os.environ["GOOGLE_API_KEY"] = 'YOUR API KEY'
 ticker = input("Enter the company symbols (e.g. MSFT): ").strip().upper()
 
 '''agents:
