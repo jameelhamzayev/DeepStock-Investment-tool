@@ -59,7 +59,7 @@ os.environ["GOOGLE_API_KEY"] = 'your_google_api_key'
 ## Usage
 1. Run the main script:
 ```python
-python stock_analysis.py
+python main-stock-ai-agent.py
 ```
 
 2. Enter the required information when prompted:
